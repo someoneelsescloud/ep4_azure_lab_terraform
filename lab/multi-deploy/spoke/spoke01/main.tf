@@ -9,7 +9,7 @@ resource "random_pet" "name_1" {
 }
 
 resource "random_shuffle" "locations" {
-  input        = ["eastus", "westus"]
+  input        = ["eastus", "eastus2"]
   result_count = 2
 }
 
