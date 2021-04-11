@@ -35,13 +35,19 @@ This is a multi workspace Terraform deployment. The deployment has been split in
 |.\lab\multi-deploy\spoke\spoke01|Deploys virtual machine, mma agent, dependancy agent and consumes hub workpace outputs using remote state|
 |.\lab\multi-deploy\spoke\spoke02|Deploys virtual machine, mma agent, dependancy agent and consumes hub workpace outputs using remote state|
 
-Full episode video: https://www.someoneelsescloud.com/episodes/ep4-build-an-azure-lab-with-terraform
+## Full episode on here:
+Website Link: https://www.someoneelsescloud.com/episodes/ep4-build-an-azure-lab-with-terraform
 
-Listen to the audio only version:
-Google Podcasts: https://cutt.ly/ogvwqTl   
+### Listen to the Audio Only version:
+
+Google Podcasts: https://cutt.ly/ogvwqTl
+
 Apple Podcasts: https://cutt.ly/YgvweNk
+
 Spotify Podcasts: https://cutt.ly/igvwezs
+
 Stitcher Radio: https://cutt.ly/ugvwewo
+
 Tunein Radio: https://cutt.ly/Xgvwwpf
 
 Visit the website for more information: www.someoneelsescloud.com
