@@ -6,7 +6,7 @@ if (-not (New-Object Security.Principal.WindowsPrincipal([Security.Principal.Win
 { Write-Host -ForegroundColor Red -Object "!!! Please run as Administrator !!!"; exit }
     
 # Terrafrom download Url
-$Url = 'https://www.terraform.io/downloads.html'
+$Url = 'https://developer.hashicorp.com/terraform/downloads'
  
 # Local path to download the terraform zip file
 $DownloadPath = 'C:\Terraform\'
